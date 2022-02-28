@@ -11,6 +11,8 @@
 
 ![](https://raw.githubusercontent.com/Yamada-Ika/Yamada-Ika/main/profile-summary-card-output/nord_bright/3-stats.svg)
 
+![](https://raw.githubusercontent.com/Yamada-Ika/Yamada-Ika/main/profile-summary-card-output/nord_bright/4-productive-time.svg)
+
 <!--
 **Yamada-Ika/Yamada-Ika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
